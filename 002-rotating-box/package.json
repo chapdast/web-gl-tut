@@ -1,0 +1,15 @@
+{
+  "name": "002-rotating-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gl-matrix-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gl-matrix": "^3.4.3"
+  }
+}
